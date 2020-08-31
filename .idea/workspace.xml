@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc5e152-f315-4daf-a2a3-0bbd77606129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/deneme.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/deneme.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section6Projects/ArmstrongSayisiBulma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section6Projects/ArmstrongSayisiBulma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section6Projects/CarpimTablosu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section6Projects/CarpimTablosu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section6Projects/DongulerleATM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section6Projects/DongulerleATM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/deneme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deneme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section6Projects/KullaniciGirisProgrami.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section6Projects/KullaniciGirisProgrami.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CarpimTablosu">
+  <component name="RunManager" selected="Application.KullaniciGirisProgrami">
     <configuration name="ArmstrongSayisiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Section6Projects.ArmstrongSayisiBulma" />
       <module name="untitled" />
@@ -89,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GelismisNotHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section5Projects.GelismisNotHesaplama" />
+    <configuration name="KullaniciGirisProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section6Projects.KullaniciGirisProgrami" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section5Projects.*" />
+          <option name="PATTERN" value="Section6Projects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KullaniciGirisProgrami" />
         <item itemvalue="Application.CarpimTablosu" />
         <item itemvalue="Application.ArmstrongSayisiBulma" />
         <item itemvalue="Application.DongulerleATM" />
         <item itemvalue="Application.deneme" />
-        <item itemvalue="Application.GelismisNotHesaplama" />
       </list>
     </recent_temporary>
   </component>
