@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc5e152-f315-4daf-a2a3-0bbd77606129" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Section7Projects/EbobBulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section7Projects/GelismisHesapMakinasi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section6Projects/FaizUygulamasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section6Projects/FaizUygulamasi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/deneme.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/deneme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section7Projects/AsalSayiBulma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section7Projects/AsalSayiBulma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/deneme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/deneme.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +29,10 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -44,13 +51,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FaizUygulamasi">
-    <configuration name="ArmstrongSayisiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section6Projects.ArmstrongSayisiBulma" />
+  <component name="RunManager" selected="Application.GelismisHesapMakinasi">
+    <configuration name="AsalSayiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section7Projects.AsalSayiBulma" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section6Projects.*" />
+          <option name="PATTERN" value="Section7Projects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,25 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarpimTablosu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section6Projects.CarpimTablosu" />
+    <configuration name="EbobBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section7Projects.EbobBulma" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section6Projects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DongulerleATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section6Projects.DongulerleATM" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Section6Projects.*" />
+          <option name="PATTERN" value="Section7Projects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KullaniciGirisProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section6Projects.KullaniciGirisProgrami" />
+    <configuration name="GelismisHesapMakinasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section7Projects.GelismisHesapMakinasi" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section6Projects.*" />
+          <option name="PATTERN" value="Section7Projects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,13 +104,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deneme" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GelismisHesapMakinasi" />
+        <item itemvalue="Application.EbobBulma" />
+        <item itemvalue="Application.AsalSayiBulma" />
+        <item itemvalue="Application.deneme" />
         <item itemvalue="Application.FaizUygulamasi" />
-        <item itemvalue="Application.KullaniciGirisProgrami" />
-        <item itemvalue="Application.CarpimTablosu" />
-        <item itemvalue="Application.ArmstrongSayisiBulma" />
-        <item itemvalue="Application.DongulerleATM" />
       </list>
     </recent_temporary>
   </component>
