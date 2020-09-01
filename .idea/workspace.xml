@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9bc5e152-f315-4daf-a2a3-0bbd77606129" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section6Projects/KullaniciGirisProgrami.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section6Projects/KullaniciGirisProgrami.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section6Projects/FaizUygulamasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section6Projects/FaizUygulamasi.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KullaniciGirisProgrami">
+  <component name="RunManager" selected="Application.FaizUygulamasi">
     <configuration name="ArmstrongSayisiBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Section6Projects.ArmstrongSayisiBulma" />
       <module name="untitled" />
@@ -84,6 +84,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FaizUygulamasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section6Projects.FaizUygulamasi" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section6Projects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KullaniciGirisProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Section6Projects.KullaniciGirisProgrami" />
       <module name="untitled" />
@@ -97,20 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deneme" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FaizUygulamasi" />
         <item itemvalue="Application.KullaniciGirisProgrami" />
         <item itemvalue="Application.CarpimTablosu" />
         <item itemvalue="Application.ArmstrongSayisiBulma" />
         <item itemvalue="Application.DongulerleATM" />
-        <item itemvalue="Application.deneme" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +131,14 @@
       <option name="presentableId" value="Default" />
       <updated>1598843828766</updated>
     </task>
+    <task id="LOCAL-00001" summary="kullanici girisi programi eklendi">
+      <created>1598917684389</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598917684389</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,10 +146,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kullanici girisi programi eklendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="kullanici girisi programi eklendi" />
   </component>
 </project>
