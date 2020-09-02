@@ -10,7 +10,7 @@ public class BedenKutleKosulluCozum {
 
         System.out.print ("kilonuzu girin   ");
         int kilo=scanner.nextInt();
-        System.out.print ("boyunuzu girin   : (ornek 1.74   ");
+        System.out.print ("boyunuzu girin   : (ornek 1.74  )  ");
         double boy=scanner.nextDouble();
 
         double bki=(kilo/(boy*boy));
