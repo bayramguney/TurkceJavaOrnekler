@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc5e152-f315-4daf-a2a3-0bbd77606129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DenemeComposition/AnaKart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeComposition/Bilgisayar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeComposition/Kasa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeComposition/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeComposition/Resolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeComposition/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeEncapsulation/Abone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeEncapsulation/AboneGelismis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeEncapsulation/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemePolymosphism/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemePolymosphism/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section9Projects/Beyblade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section9Projects/BeybladeFabrikasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section9Projects/Dracel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section9Projects/Dragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section9Projects/Dranza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section9Projects/Drayga.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/Section8ProjectsCalisanlar/Yonetici.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Section8ProjectsCalisanlar/Yonetici.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeEncapsulation/AboneGelismis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/DenemeEncapsulation/AboneGelismis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section9Projects/BeyBladeProgrami.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section9Projects/BeyBladeProgrami.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +33,7 @@
   <component name="ProjectId" id="1gqYwaBVTTEj7dpwjKlvV1wwHbo" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/DenemePolymosphism" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -41,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\DenemePolymosphism" />
       <recent name="C:\technoStudyNew\untitled\src" />
     </key>
   </component>
@@ -56,26 +57,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (3)">
-    <configuration name="CalisanlarProjesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section8ProjectsCalisanlar.CalisanlarProjesi" />
+  <component name="RunManager" selected="Application.BeyBladeProgrami">
+    <configuration name="BeyBladeProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section9Projects.BeyBladeProgrami" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section8ProjectsCalisanlar.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeInheritanceEk.Test" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DenemeInheritanceEk.*" />
+          <option name="PATTERN" value="Section9Projects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeInheritance.Test" />
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemePolymosphism.Test" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeInheritance.*" />
+          <option name="PATTERN" value="DenemePolymosphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeConsructer.Test" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemePolymosphism.Test1" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeConsructer.*" />
+          <option name="PATTERN" value="DenemePolymosphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BeyBladeProgrami" />
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test (4)" />
         <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.CalisanlarProjesi" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
