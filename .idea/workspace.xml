@@ -2,17 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc5e152-f315-4daf-a2a3-0bbd77606129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DenemePolymosphism/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemePolymosphism/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section9Projects/Beyblade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section9Projects/BeybladeFabrikasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section9Projects/Dracel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section9Projects/Dragon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section9Projects/Dranza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section9Projects/Drayga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeArray_Arraylist/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeArray_Arraylist/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeArray_Arraylist/ArrayCokBoyut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeArray_Arraylist/Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeAutoBoxing/autoboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeInheritanceGercekHayatGuzelCode/BaseProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeInheritanceGercekHayatGuzelCode/MySqlProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeInheritanceGercekHayatGuzelCode/OracleProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeInheritanceGercekHayatGuzelCode/PostSqlProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeInheritanceGercekHayatGuzelCode/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeInheritanceGercekHayatGuzelCode/ProductNesnesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeInheritanceGercekHayatGuzelCode/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeInheritanceGercekHayatSpaghetiCode/MySqlProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeInheritanceGercekHayatSpaghetiCode/OracleProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeInheritanceGercekHayatSpaghetiCode/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeInheritanceGercekHayatSpaghetiCode/ProductNesnesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeInheritanceGercekHayatSpaghetiCode/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeLinkedlist/Linkedlist1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeString/StringSinifi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section10ProjectsHafizaOyunu/HafizaOyunu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section10ProjectsHafizaOyunu/Kart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section10ProjectsSarkicilar/Sarkicilar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section10ProjectsSarkicilar/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section10ProjectsSehirTuru/SehirTuru.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeEncapsulation/AboneGelismis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/DenemeEncapsulation/AboneGelismis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section9Projects/BeyBladeProgrami.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section9Projects/BeyBladeProgrami.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +54,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DenemeInheritanceGercekHayatGuzelCode" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\DenemePolymosphism" />
       <recent name="C:\technoStudyNew\untitled\src" />
@@ -57,13 +74,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BeyBladeProgrami">
-    <configuration name="BeyBladeProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section9Projects.BeyBladeProgrami" />
+  <component name="RunManager" selected="Application.SehirTuru">
+    <configuration name="Arraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeArray_Arraylist.Arraylist" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section9Projects.*" />
+          <option name="PATTERN" value="DenemeArray_Arraylist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeComposition.Test" />
+    <configuration name="Linkedlist1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeLinkedlist.Linkedlist1" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeComposition.*" />
+          <option name="PATTERN" value="DenemeLinkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeEncapsulation.Test" />
+    <configuration name="SehirTuru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section10ProjectsSehirTuru.SehirTuru" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeEncapsulation.*" />
+          <option name="PATTERN" value="Section10ProjectsSehirTuru.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemePolymosphism.Test" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section10ProjectsSarkicilar.Test" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemePolymosphism.*" />
+          <option name="PATTERN" value="Section10ProjectsSarkicilar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemePolymosphism.Test1" />
+    <configuration name="autoboxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeAutoBoxing.autoboxing" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemePolymosphism.*" />
+          <option name="PATTERN" value="DenemeAutoBoxing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BeyBladeProgrami" />
-        <item itemvalue="Application.Test1" />
-        <item itemvalue="Application.Test (4)" />
-        <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.SehirTuru" />
+        <item itemvalue="Application.Linkedlist1" />
+        <item itemvalue="Application.autoboxing" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Arraylist" />
       </list>
     </recent_temporary>
   </component>
