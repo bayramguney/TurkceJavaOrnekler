@@ -11,7 +11,6 @@ public class Vec {
 
     public Vec(String isim) {
         this.isim = isim;
-
         Scanner scanner=new Scanner(System.in);
         System.out.println(isim +" i , j ve k degerlerini girin : ");
         System.out.print("i : ");
