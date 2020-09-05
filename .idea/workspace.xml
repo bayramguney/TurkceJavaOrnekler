@@ -2,24 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc5e152-f315-4daf-a2a3-0bbd77606129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DenemeGeneric/CharYazdir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeGeneric/IntegerYazdir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeGeneric/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeGeneric/OgrenciYazdir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeGeneric/StringYazdir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeGeneric/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeGeneric/YazdirmaSinifi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeGenericEk/Aday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeGenericEk/EsitAgirlik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeGenericEk/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeGenericEk/Sayisal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeGenericEk/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeGenericEk/Test2AdaySayisalEsitAgirlik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeAccessMod1/At.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeAccessMod1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeAccessMod2/Araba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeAccessMod2/Hayvan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeAccessMod2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeKapsamOzelligi/KapsamSinifi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeKapsamOzelligi/KapsamSinifi2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeKapsamOzelligi/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeKapsamOzelligi/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemePaketler1/AdayOgrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemePaketler1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemePaketler2/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemePaketler2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeStatic/StatikClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeStatic/TestStatikClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section12ProjectsYgsLys/Aday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section12ProjectsYgsLys/EsitAgirlik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section12ProjectsYgsLys/Sayisal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section12ProjectsYgsLys/Test2AdaySayisalEsitAgirlik.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/Section11ProjectsMat_FizikProblem/Problem$Fizik.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Section11ProjectsMat_FizikProblem/Problem$Fizik.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/Section11ProjectsMat_FizikProblem/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Section11ProjectsMat_FizikProblem/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/Section11ProjectsMat_FizikProblem/Vec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Section11ProjectsMat_FizikProblem/Vec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section11ProjectsMat_FizikProblem/Vec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section11ProjectsMat_FizikProblem/Vec.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,17 +43,21 @@
   <component name="ProjectId" id="1gqYwaBVTTEj7dpwjKlvV1wwHbo" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/DenemePolymosphism" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Section12ProjectsYgsLys" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\yeni" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="DenemeInheritanceGercekHayatGuzelCode" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\Section12ProjectsYgsLys" />
       <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\DenemePolymosphism" />
       <recent name="C:\technoStudyNew\untitled\src" />
     </key>
@@ -68,39 +74,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test2AdaySayisalEsitAgirlik">
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeGeneric.Test" />
+  <component name="RunManager" selected="Application.TestStatikClass">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeKapsamOzelligi.Test" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeGeneric.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section11ProjectsMat_FizikProblem.Test" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Section11ProjectsMat_FizikProblem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeGenericEk.Test" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DenemeGenericEk.*" />
+          <option name="PATTERN" value="DenemeKapsamOzelligi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +89,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeInnerClassAnonim.Test" />
+      <option name="MAIN_CLASS_NAME" value="DenemePaketler2.Test" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeInnerClassAnonim.*" />
+          <option name="PATTERN" value="DenemePaketler2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +101,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2AdaySayisalEsitAgirlik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeGenericEk.Test2AdaySayisalEsitAgirlik" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeKapsamOzelligi.Test2" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeGenericEk.*" />
+          <option name="PATTERN" value="DenemeKapsamOzelligi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2AdaySayisalEsitAgirlik (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section12ProjectsYgsLys.Test2AdaySayisalEsitAgirlik" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section12ProjectsYgsLys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStatikClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeStatic.TestStatikClass" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DenemeStatic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test2AdaySayisalEsitAgirlik" />
-        <item itemvalue="Application.Test (4)" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.TestStatikClass" />
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test2AdaySayisalEsitAgirlik (1)" />
       </list>
     </recent_temporary>
   </component>
