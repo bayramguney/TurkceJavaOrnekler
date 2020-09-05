@@ -2,26 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc5e152-f315-4daf-a2a3-0bbd77606129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DenemeAccessMod1/At.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeAccessMod1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeAccessMod2/Araba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeAccessMod2/Hayvan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeAccessMod2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeKapsamOzelligi/KapsamSinifi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeKapsamOzelligi/KapsamSinifi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeKapsamOzelligi/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeKapsamOzelligi/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemePaketler1/AdayOgrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemePaketler1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemePaketler2/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemePaketler2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeStatic/StatikClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeStatic/TestStatikClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section12ProjectsYgsLys/Aday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section12ProjectsYgsLys/EsitAgirlik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section12ProjectsYgsLys/Sayisal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section12ProjectsYgsLys/Test2AdaySayisalEsitAgirlik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeFinal/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeFinal/FinalTEst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeFinal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeFinal2/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeFinal2/Database2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeFinal2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeInterfaceMethod_Ozellik/IDeneme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeInterfaceMethod_Ozellik/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeStatic/StatikClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/DenemeStatic/StatikClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeStatic/TestStatikClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/DenemeStatic/TestStatikClass.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,13 +65,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestStatikClass">
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeKapsamOzelligi.Test" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeFinal2.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeKapsamOzelligi.*" />
+          <option name="PATTERN" value="DenemeFinal2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +79,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemePaketler2.Test" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeInterfaceMethod_Ozellik.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemePaketler2.*" />
+          <option name="PATTERN" value="DenemeInterfaceMethod_Ozellik.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeFinal.Main" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DenemeFinal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,19 +111,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DenemeKapsamOzelligi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2AdaySayisalEsitAgirlik (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section12ProjectsYgsLys.Test2AdaySayisalEsitAgirlik" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Section12ProjectsYgsLys.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestStatikClass" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test2AdaySayisalEsitAgirlik (1)" />
       </list>
     </recent_temporary>
   </component>
