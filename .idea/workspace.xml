@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc5e152-f315-4daf-a2a3-0bbd77606129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DenemeFinal/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeFinal/FinalTEst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeFinal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeFinal2/Database.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeFinal2/Database2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeFinal2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeInterfaceMethod_Ozellik/IDeneme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeInterfaceMethod_Ozellik/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeCollection/ArrayAndLinkedlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeCollection/ArrayListMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeCollection/SetMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeStatic/StatikClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/DenemeStatic/StatikClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeStatic/TestStatikClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/DenemeStatic/TestStatikClass.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +58,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.SetMain">
+    <configuration name="ArrayAndLinkedlist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeCollection.ArrayAndLinkedlist" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DenemeCollection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DenemeFinal2.Main" />
       <module name="untitled" />
@@ -105,25 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeKapsamOzelligi.Test2" />
+    <configuration name="SetMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeCollection.SetMain" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeKapsamOzelligi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestStatikClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeStatic.TestStatikClass" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DenemeStatic.*" />
+          <option name="PATTERN" value="DenemeCollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SetMain" />
+        <item itemvalue="Application.ArrayAndLinkedlist" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TestStatikClass" />
-        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
