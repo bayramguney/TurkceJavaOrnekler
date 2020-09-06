@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc5e152-f315-4daf-a2a3-0bbd77606129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Section14ProjectsAcilServisPriorityQueue/Hasta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section14ProjectsAcilServisPriorityQueue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeIterablesinifiOlusturma/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeIterablesinifiOlusturma/Radyo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section14ProjectsKumandaIterable/Kumanda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section14ProjectsKumandaIterable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section6ProjectIterator_listiterator/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,16 +36,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\yeni" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="DenemeInheritanceGercekHayatGuzelCode" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\Section12ProjectsYgsLys" />
       <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\DenemePolymosphism" />
       <recent name="C:\technoStudyNew\untitled\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DenemeInheritanceGercekHayatGuzelCode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\yeni" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -57,13 +60,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeVectorStack.Main" />
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section6ProjectIterator_listiterator.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeVectorStack.*" />
+          <option name="PATTERN" value="Section6ProjectIterator_listiterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeIterablesinifiOlusturma.Main" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DenemeIterablesinifiOlusturma.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,24 +88,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section14ProjectsPalindromeStack.Main" />
+      <option name="MAIN_CLASS_NAME" value="Section14ProjectsKumandaIterable.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section14ProjectsPalindromeStack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section14ProjectsPideQueue.Main" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Section14ProjectsPideQueue.*" />
+          <option name="PATTERN" value="Section14ProjectsKumandaIterable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
