@@ -1,0 +1,5 @@
+Ali Omer,Bilgisayar Muhendisligi
+Okan Can,Insaat Muhendisligi
+Ahmet Tan,Bilgisayar Muhendisligi
+Tekin Ozan,Insaat Muhendisligi
+Ali Ozan,Insaat Muhendisligi

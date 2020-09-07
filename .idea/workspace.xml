@@ -2,27 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc5e152-f315-4daf-a2a3-0bbd77606129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DenemeExceptions/InvalidAgeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeExceptions/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeExceptions/MainFinally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeExceptions/MainIcIceMethodException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeExceptions/MainKendiException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeExceptions/MainThrow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeExceptions/MainThrows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section15ProjectsYurtDisiException/BasitHesapMakinasi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section15ProjectsYurtDisiException/TestYolcu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section15ProjectsYurtDisiException/Yolcu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dog-barking.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeFileInputStreamVeriAlmak/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeFileOutputStreamVeriYazmak/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeFileReaderBufferedReaderBufferedWriter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeFileWriterDosyaYazma/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeFileWriterTryWith/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section16ProjectsIdmanprogramiLog/Idman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section16ProjectsIdmanprogramiLog/IdmanProgrami.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section16ProjectsMp3Kopyalama/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/Section14ProjectsKumandaIterable/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Section14ProjectsKumandaIterable/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section11ProjectsYurtdisiCikis/IYurtdisiKurallari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section11ProjectsYurtdisiCikis/IYurtdisiKurallari.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section6ProjectIterator_listiterator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DenemeIterator_listiterator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section9Projects/BeyBladeProgrami.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section9ProjectsBeyblade/BeyBladeProgrami.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section9Projects/Beyblade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section9ProjectsBeyblade/Beyblade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section9Projects/BeybladeFabrikasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section9ProjectsBeyblade/BeybladeFabrikasi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section9Projects/Dracel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section9ProjectsBeyblade/Dracel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section9Projects/Dragon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section9ProjectsBeyblade/Dragon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section9Projects/Dranza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section9ProjectsBeyblade/Dranza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section9Projects/Drayga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section9ProjectsBeyblade/Drayga.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +33,7 @@
   <component name="ProjectId" id="1gqYwaBVTTEj7dpwjKlvV1wwHbo" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Section15ProjectsYurtDisiException" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Section16ProjectsIdmanprogramiLog" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -59,10 +48,11 @@
       <recent name="DenemeInheritanceGercekHayatGuzelCode" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\Section16ProjectsIdmanprogramiLog" />
+      <recent name="C:\technoStudyNew\TurkceJavaOrnekler" />
       <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\Section15ProjectsYurtDisiException" />
       <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\Section12ProjectsYgsLys" />
       <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\DenemePolymosphism" />
-      <recent name="C:\technoStudyNew\untitled\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -77,13 +67,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BasitHesapMakinasi">
-    <configuration name="BasitHesapMakinasi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section15ProjectsYurtDisiException.BasitHesapMakinasi" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="IdmanProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section16ProjectsIdmanprogramiLog.IdmanProgrami" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section15ProjectsYurtDisiException.*" />
+          <option name="PATTERN" value="Section16ProjectsIdmanprogramiLog.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainIcIceMethodException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeExceptions.MainIcIceMethodException" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section16ProjectsMp3Kopyalama.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeExceptions.*" />
+          <option name="PATTERN" value="Section16ProjectsMp3Kopyalama.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKendiException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeExceptions.MainKendiException" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeFileWriterDosyaYazma.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeExceptions.*" />
+          <option name="PATTERN" value="DenemeFileWriterDosyaYazma.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainThrows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeExceptions.MainThrows" />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeFileWriterTryWith.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeExceptions.*" />
+          <option name="PATTERN" value="DenemeFileWriterTryWith.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestYolcu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section15ProjectsYurtDisiException.TestYolcu" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeFileReaderBufferedReaderBufferedWriter.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section15ProjectsYurtDisiException.*" />
+          <option name="PATTERN" value="DenemeFileReaderBufferedReaderBufferedWriter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BasitHesapMakinasi" />
-        <item itemvalue="Application.TestYolcu" />
-        <item itemvalue="Application.MainKendiException" />
-        <item itemvalue="Application.MainIcIceMethodException" />
-        <item itemvalue="Application.MainThrows" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.IdmanProgrami" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
