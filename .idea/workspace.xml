@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc5e152-f315-4daf-a2a3-0bbd77606129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dog-barking.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeFileInputStreamVeriAlmak/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeFileOutputStreamVeriYazmak/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeFileReaderBufferedReaderBufferedWriter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeFileWriterDosyaYazma/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeFileWriterTryWith/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section16ProjectsIdmanprogramiLog/Idman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section16ProjectsIdmanprogramiLog/IdmanProgrami.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section16ProjectsMp3Kopyalama/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section16ProjectsNotHesaplama/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,7 +59,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="IdmanProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Section16ProjectsIdmanprogramiLog.IdmanProgrami" />
       <module name="untitled" />
@@ -81,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section16ProjectsMp3Kopyalama.Main" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section16ProjectsNotHesaplama.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section16ProjectsMp3Kopyalama.*" />
+          <option name="PATTERN" value="Section16ProjectsNotHesaplama.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.IdmanProgrami" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>

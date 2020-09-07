@@ -1,0 +1,12 @@
+Ali Veli,10,20,40
+Ahmet Ozan,30,40,80
+Demir Can,45,67,89
+Merve Sanal,60,80,100
+Alim Veli,10,20,40
+Ahmetim Ozan,30,40,80
+Demirim Can,45,67,89
+Mervem Sanal,60,80,100
+Alicik Veli,10,20,40
+Ahmetcik Ozan,30,40,80
+Demircik Can,45,67,89
+Mervecik Sanal,60,80,100
