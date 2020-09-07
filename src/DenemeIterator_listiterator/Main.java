@@ -1,4 +1,4 @@
-package Section6ProjectIterator_listiterator;
+package DenemeIterator_listiterator;
 
 import java.util.*;
 

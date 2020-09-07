@@ -1,4 +1,4 @@
-package Section9Projects;
+package Section9ProjectsBeyblade;
 
 public class Dracel extends Beyblade {
    private String kutsalCanavar;

@@ -1,4 +1,4 @@
-package Section9Projects;
+package Section9ProjectsBeyblade;
 
 import java.util.Scanner;
 

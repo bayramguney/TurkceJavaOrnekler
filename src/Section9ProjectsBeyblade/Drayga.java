@@ -1,4 +1,4 @@
-package Section9Projects;
+package Section9ProjectsBeyblade;
 
 public class Drayga extends Beyblade{
     private String kutsalCanavar;
