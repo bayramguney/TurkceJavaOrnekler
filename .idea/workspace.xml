@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc5e152-f315-4daf-a2a3-0bbd77606129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Section16ProjectsNotHesaplama/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeSerialization/ObjeyiOku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeSerialization/ObjeyiYaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeSerialization/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeSerializationArrayCollection/ObjeyiOku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeSerializationArrayCollection/ObjeyiYaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeSerializationArrayCollection/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeSerializationStatikAlan/ObjeyiOku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeSerializationStatikAlan/ObjeyiYaz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeSerializationStatikAlan/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section16ProjectsHafizaOyunu/HafizaOyunu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section16ProjectsHafizaOyunu/Kart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section16ProjectsHafizaOyunu/OyunKayit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/Section16ProjectsNotHesaplama/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Section16ProjectsNotHesaplama/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section16ProjectsNotHesaplama/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section16ProjectsNotHesaplama/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +38,7 @@
   <component name="ProjectId" id="1gqYwaBVTTEj7dpwjKlvV1wwHbo" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Section16ProjectsIdmanprogramiLog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Section16ProjectsHafizaOyunu" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -36,15 +49,16 @@
       <recent name="C:\technoStudyNew\TurkceJavaOrnekler\yeni" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DenemeSerializationArrayCollection" />
       <recent name="Section15ProjectsYurtDisiException" />
       <recent name="DenemeInheritanceGercekHayatGuzelCode" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\Section16ProjectsHafizaOyunu" />
+      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\DenemeSerializationStatikAlan" />
       <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\Section16ProjectsIdmanprogramiLog" />
       <recent name="C:\technoStudyNew\TurkceJavaOrnekler" />
       <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\Section15ProjectsYurtDisiException" />
-      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\Section12ProjectsYgsLys" />
-      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\DenemePolymosphism" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -59,13 +73,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="IdmanProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section16ProjectsIdmanprogramiLog.IdmanProgrami" />
+  <component name="RunManager" selected="Application.HafizaOyunu">
+    <configuration name="HafizaOyunu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section16ProjectsHafizaOyunu.HafizaOyunu" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section16ProjectsIdmanprogramiLog.*" />
+          <option name="PATTERN" value="Section16ProjectsHafizaOyunu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section16ProjectsNotHesaplama.Main" />
+    <configuration name="ObjeyiOku (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeSerializationArrayCollection.ObjeyiOku" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section16ProjectsNotHesaplama.*" />
+          <option name="PATTERN" value="DenemeSerializationArrayCollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeFileWriterDosyaYazma.Main" />
+    <configuration name="ObjeyiOku (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeSerializationStatikAlan.ObjeyiOku" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeFileWriterDosyaYazma.*" />
+          <option name="PATTERN" value="DenemeSerializationStatikAlan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeFileWriterTryWith.Main" />
+    <configuration name="ObjeyiYaz (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeSerializationArrayCollection.ObjeyiYaz" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeFileWriterTryWith.*" />
+          <option name="PATTERN" value="DenemeSerializationArrayCollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeFileReaderBufferedReaderBufferedWriter.Main" />
+    <configuration name="ObjeyiYaz (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeSerializationStatikAlan.ObjeyiYaz" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeFileReaderBufferedReaderBufferedWriter.*" />
+          <option name="PATTERN" value="DenemeSerializationStatikAlan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.IdmanProgrami" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.HafizaOyunu" />
+        <item itemvalue="Application.ObjeyiOku (2)" />
+        <item itemvalue="Application.ObjeyiYaz (2)" />
+        <item itemvalue="Application.ObjeyiOku (1)" />
+        <item itemvalue="Application.ObjeyiYaz (1)" />
       </list>
     </recent_temporary>
   </component>

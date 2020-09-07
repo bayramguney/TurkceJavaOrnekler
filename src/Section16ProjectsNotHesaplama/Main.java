@@ -41,9 +41,9 @@ public class Main {
             while (scanner.hasNextLine()) {
                 String ogrenciBilgileri = scanner.nextLine();
                 String[] ogrenci_array = ogrenciBilgileri.split(",");
-                int vize1 = Integer.valueOf(ogrenci_array[1]);
-                int vize2 = Integer.valueOf(ogrenci_array[2]);
-                int finalnot = Integer.valueOf(ogrenci_array[3]);
+                int vize1 = Integer.parseInt(ogrenci_array[1]);
+                int vize2 = Integer.parseInt(ogrenci_array[2]);
+                int finalnot = Integer.parseInt(ogrenci_array[3]);
 
 
                 String cikti = harfNotuHesapla(ogrenci_array[0], vize1, vize2, finalnot);
