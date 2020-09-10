@@ -2,102 +2,83 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc5e152-f315-4daf-a2a3-0bbd77606129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadReentantLocl_Condition/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadReentantLocl_Condition/ReentrantLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section17ProjectsMp3KopyalamaThread/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadBirdenCokAyniAndaCalistirma/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadBirdenCokAyniAndaCalistirma/SemaphoreOrnegi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadCallable_Future/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadCallable_Future/MainCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadDeadlockOlusturma/Hesap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadDeadlockOlusturma/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadInterrupt/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadInterrupt/MainInterrupt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/YardimciDosyalar/data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog-barking.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/YardimciDosyalar/dog-barking.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dog2.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/src/YardimciDosyalar/dog2.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dosya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/YardimciDosyalar/dosya.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dosya1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/YardimciDosyalar/dosya1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/duller.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/YardimciDosyalar/duller.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/harfnotlari.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/YardimciDosyalar/harfnotlari.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/YardimciDosyalar/log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ogrenci.bin" beforeDir="false" afterPath="$PROJECT_DIR$/src/YardimciDosyalar/ogrenci.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ogrenciler.bin" beforeDir="false" afterPath="$PROJECT_DIR$/src/YardimciDosyalar/ogrenciler.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ogrenciler.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/YardimciDosyalar/ogrenciler.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadHavuzu_ExecutorService/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadHavuzu_ExecutorService/Main1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadHavuzu_ExecutorService/Worker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadOlusturma1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadOlusturma1/Printer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadOlusturma2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadOlusturma2/Printer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadOlusturma3/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadOlusturma3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadOlusturma3/Main2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadOlusturma3/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadSenkronizasyonu/ThreadSafe$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadSenkronizasyonu/ThreadSafe$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadSenkronizasyonu/ThreadSafe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadSenkronizasyonu1denFazlaLock/ListWorker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadSenkronizasyonu1denFazlaLock/ListWorker2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadSenkronizasyonu1denFazlaLock/ListWorker2$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadSenkronizasyonu1denFazlaLock/ListWorker2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadSenkronizasyonu1denFazlaLock/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadSenkronizasyonu1denFazlaLock/Main2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadWait_Notify/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadWait_Notify/Main$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadWait_Notify/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeThreadWait_Notify/WaitNotify.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeAbstract/Daire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeAbstract/Daire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeAbstract/Kare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeAbstract/Kare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeAbstract/Sekil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeAbstract/Sekil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeAbstract/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeAbstract/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeConsructer/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeConsructer/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeConsructer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeConsructer/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeEncapsulation/Abone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeEncapsulation/Abone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeEncapsulation/AboneGelismis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeEncapsulation/AboneGelismis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeEncapsulation/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeEncapsulation/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeFileInputStreamVeriAlmak/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaInputOutput/DenemeFileInputStreamVeriAlmak/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeFileOutputStreamVeriYazmak/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaInputOutput/DenemeFileOutputStreamVeriYazmak/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeFileReaderBufferedReaderBufferedWriter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaInputOutput/DenemeFileReaderBufferedReaderBufferedWriter/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeFileWriterDosyaYazma/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaInputOutput/DenemeFileWriterDosyaYazma/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeFileWriterTryWith/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaInputOutput/DenemeFileWriterTryWith/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeGeneric/CharYazdir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/DenemeGeneric/CharYazdir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeGeneric/IntegerYazdir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/DenemeGeneric/IntegerYazdir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeGeneric/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/DenemeGeneric/Ogrenci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeGeneric/OgrenciYazdir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/DenemeGeneric/OgrenciYazdir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeGeneric/StringYazdir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/DenemeGeneric/StringYazdir.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeGeneric/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/DenemeGeneric/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeGeneric/YazdirmaSinifi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/DenemeGeneric/YazdirmaSinifi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeGenericEk/Aday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/DenemeGenericEk/Aday.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeGenericEk/EsitAgirlik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/DenemeGenericEk/EsitAgirlik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeGenericEk/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/DenemeGenericEk/Ogrenci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeGenericEk/Sayisal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/DenemeGenericEk/Sayisal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeGenericEk/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/DenemeGenericEk/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeGenericEk/Test2AdaySayisalEsitAgirlik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/DenemeGenericEk/Test2AdaySayisalEsitAgirlik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeInheritance/Calisan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeInheritance/Calisan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeInheritance/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeInheritance/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeInheritance/Yonetici.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeInheritance/Yonetici.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeInheritanceEk/Hayvan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeInheritanceEk/Hayvan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeInheritanceEk/Kopek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeInheritanceEk/Kopek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeInheritanceEk/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeInheritanceEk/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeInterface/ICalisma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeInterface/ICalisma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeInterface/IMuhendis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeInterface/IMuhendis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeInterface/MakineMuhendisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeInterface/MakineMuhendisi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeInterface/PCMuhendisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeInterface/PCMuhendisi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeInterface/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeInterface/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeInterfaceMethod_Ozellik/IDeneme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeInterfaceMethod_Ozellik/IDeneme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeInterfaceMethod_Ozellik/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemeInterfaceMethod_Ozellik/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemePolymosphism/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemePolymosphism/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemePolymosphism/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/DenemePolymosphism/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeThreadHavuzu_ExecutorService/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadHavuzu_ExecutorService/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeThreadHavuzu_ExecutorService/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadHavuzu_ExecutorService/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeThreadHavuzu_ExecutorService/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadHavuzu_ExecutorService/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeThreadOlusturma1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadOlusturma1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeThreadOlusturma1/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadOlusturma1/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeThreadOlusturma2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadOlusturma2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeThreadOlusturma2/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadOlusturma2/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeThreadOlusturma3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadOlusturma3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeThreadOlusturma3/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadOlusturma3/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeThreadSenkronizasyonu/ThreadSafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadSenkronizasyonu/ThreadSafe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeThreadSenkronizasyonu1denFazlaLock/ListWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadSenkronizasyonu1denFazlaLock/ListWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeThreadSenkronizasyonu1denFazlaLock/ListWorker2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadSenkronizasyonu1denFazlaLock/ListWorker2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeThreadSenkronizasyonu1denFazlaLock/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadSenkronizasyonu1denFazlaLock/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeThreadSenkronizasyonu1denFazlaLock/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadSenkronizasyonu1denFazlaLock/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeThreadWait_Notify/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadWait_Notify/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeThreadWait_Notify/WaitNotify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/DenemeThreadWait_Notify/WaitNotify.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeAbstract/Daire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeAbstract/Kare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeAbstract/Sekil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeAbstract/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeComposition/AnaKart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeComposition/Bilgisayar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeComposition/Kasa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeComposition/Monitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeComposition/Resolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeComposition/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeConsructer/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeConsructer/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeEncapsulation/Abone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeEncapsulation/AboneGelismis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeEncapsulation/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeFileInputStreamVeriAlmak/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeFileOutputStreamVeriYazmak/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeFileReaderBufferedReaderBufferedWriter/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeFileWriterDosyaYazma/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeFileWriterTryWith/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeGeneric/CharYazdir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeGeneric/IntegerYazdir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeGeneric/Ogrenci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeGeneric/OgrenciYazdir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeGeneric/StringYazdir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeGeneric/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeGeneric/YazdirmaSinifi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeGenericEk/Aday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeGenericEk/EsitAgirlik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeGenericEk/Ogrenci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeGenericEk/Sayisal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeGenericEk/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeGenericEk/Test2AdaySayisalEsitAgirlik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeInheritance/Calisan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeInheritance/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeInheritance/Yonetici.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeInheritanceEk/Hayvan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeInheritanceEk/Kopek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeInheritanceEk/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeInterface/ICalisma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeInterface/IMuhendis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeInterface/MakineMuhendisi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeInterface/PCMuhendisi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeInterface/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeInterfaceMethod_Ozellik/IDeneme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemeInterfaceMethod_Ozellik/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemePolymosphism/At.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemePolymosphism/At1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemePolymosphism/Hayvan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemePolymosphism/Hayvan1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemePolymosphism/Kedi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemePolymosphism/Kedi1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemePolymosphism/Kopek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemePolymosphism/Kopek1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemePolymosphism/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled/DenemePolymosphism/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YardimciDosyalar/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YardimciDosyalar/dog-barking.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/dog-barking.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YardimciDosyalar/dog2.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YardimciDosyalar/dosya.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dosya.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YardimciDosyalar/dosya1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/dosya1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YardimciDosyalar/duller.txt" beforeDir="false" afterPath="$PROJECT_DIR$/duller.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YardimciDosyalar/harfnotlari.txt" beforeDir="false" afterPath="$PROJECT_DIR$/harfnotlari.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YardimciDosyalar/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YardimciDosyalar/ogrenci.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ogrenci.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YardimciDosyalar/ogrenciler.bin" beforeDir="false" afterPath="$PROJECT_DIR$/ogrenciler.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/YardimciDosyalar/ogrenciler.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ogrenciler.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,12 +107,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\DenemeThreadOlusturma2" />
-      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\Section16ProjectsHafizaOyunu" />
-      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\DenemeSerializationStatikAlan" />
-      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\Section16ProjectsIdmanprogramiLog" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\technoStudyNew\TurkceJavaOrnekler" />
+      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\YardimciDosyalar" />
+      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\yeni" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="DenemeThreadSenkronizasyonu1denFazlaLock" />
@@ -139,8 +118,12 @@
       <recent name="Section15ProjectsYurtDisiException" />
       <recent name="DenemeInheritanceGercekHayatGuzelCode" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\yeni" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\DenemeThreadOlusturma2" />
+      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\Section16ProjectsHafizaOyunu" />
+      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\DenemeSerializationStatikAlan" />
+      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\Section16ProjectsIdmanprogramiLog" />
+      <recent name="C:\technoStudyNew\TurkceJavaOrnekler" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -157,11 +140,11 @@
   </component>
   <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section17ProducerConsumerProblemiarrayBlockingQueue.Main" />
+      <option name="MAIN_CLASS_NAME" value="Thread.DenemeThreadCallable_Future.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section17ProducerConsumerProblemiarrayBlockingQueue.*" />
+          <option name="PATTERN" value="Thread.DenemeThreadCallable_Future.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +153,11 @@
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.DenemeThreadHavuzu_ExecutorService.Main" />
+      <option name="MAIN_CLASS_NAME" value="Section17ProjectsMp3KopyalamaThread.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Thread.DenemeThreadHavuzu_ExecutorService.*" />
+          <option name="PATTERN" value="Section17ProjectsMp3KopyalamaThread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,11 +166,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section17ProducerConsumerProblemiWait_Notify.Main" />
+      <option name="MAIN_CLASS_NAME" value="Thread.DenemeThreadInterrupt.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section17ProducerConsumerProblemiWait_Notify.*" />
+          <option name="PATTERN" value="Thread.DenemeThreadInterrupt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.DenemeThreadHavuzu_ExecutorService.Main1" />
+    <configuration name="MainCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.DenemeThreadCallable_Future.MainCallable" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Thread.DenemeThreadHavuzu_ExecutorService.*" />
+          <option name="PATTERN" value="Thread.DenemeThreadCallable_Future.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.DenemeThreadReentantLocl_Condition.Main" />
+    <configuration name="MainInterrupt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.DenemeThreadInterrupt.MainInterrupt" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Thread.DenemeThreadReentantLocl_Condition.*" />
+          <option name="PATTERN" value="Thread.DenemeThreadInterrupt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,9 +220,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.MainInterrupt" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.MainCallable" />
         <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
