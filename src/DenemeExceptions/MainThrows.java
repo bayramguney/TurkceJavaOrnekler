@@ -13,7 +13,7 @@ public class MainThrows {
 
 
         try {
-            mekan_kontrol(yas);                    // metodda checke exception oldugundan try catch kullandik.
+            mekan_kontrol(yas);                    // metodda checked exception oldugundan try catch kullandik.
         } catch (IOException e) {                  // try catch kullanmazsak main metoda throws atmamiz lazim
             System.out.println("IOExecption kullanildi...");   //ama biz yakalamazsak bunu kullanan handle eder
         }

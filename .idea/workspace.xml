@@ -2,21 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc5e152-f315-4daf-a2a3-0bbd77606129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DenemeSerialization/ObjeyiOku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeSerialization/ObjeyiYaz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeSerialization/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeSerializationArrayCollection/ObjeyiOku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeSerializationArrayCollection/ObjeyiYaz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeSerializationArrayCollection/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeSerializationStatikAlan/ObjeyiOku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeSerializationStatikAlan/ObjeyiYaz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeSerializationStatikAlan/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section16ProjectsHafizaOyunu/HafizaOyunu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section16ProjectsHafizaOyunu/Kart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Section16ProjectsHafizaOyunu/OyunKayit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeThreadOlusturma1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeThreadOlusturma1/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeThreadOlusturma2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeThreadOlusturma2/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeThreadOlusturma3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeThreadOlusturma3/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeThreadSenkronizasyonu/ThreadSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeThreadSenkronizasyonu1denFazlaLock/ListWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeThreadSenkronizasyonu1denFazlaLock/ListWorker2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeThreadSenkronizasyonu1denFazlaLock/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeThreadSenkronizasyonu1denFazlaLock/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled/Section16ProjectsNotHesaplama/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled/Section16ProjectsNotHesaplama/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section16ProjectsNotHesaplama/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section16ProjectsNotHesaplama/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DenemeExceptions/MainThrows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DenemeExceptions/MainThrows.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,27 +36,28 @@
   <component name="ProjectId" id="1gqYwaBVTTEj7dpwjKlvV1wwHbo" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Section16ProjectsHafizaOyunu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/DenemeThreadOlusturma2" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\yeni" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="DenemeSerializationArrayCollection" />
-      <recent name="Section15ProjectsYurtDisiException" />
-      <recent name="DenemeInheritanceGercekHayatGuzelCode" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\DenemeThreadOlusturma2" />
       <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\Section16ProjectsHafizaOyunu" />
       <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\DenemeSerializationStatikAlan" />
       <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\Section16ProjectsIdmanprogramiLog" />
       <recent name="C:\technoStudyNew\TurkceJavaOrnekler" />
-      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\src\Section15ProjectsYurtDisiException" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DenemeThreadSenkronizasyonu1denFazlaLock" />
+      <recent name="DenemeSerializationArrayCollection" />
+      <recent name="Section15ProjectsYurtDisiException" />
+      <recent name="DenemeInheritanceGercekHayatGuzelCode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\technoStudyNew\TurkceJavaOrnekler\yeni" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -73,13 +72,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HafizaOyunu">
-    <configuration name="HafizaOyunu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section16ProjectsHafizaOyunu.HafizaOyunu" />
+  <component name="RunManager" selected="Application.Main2 (1)">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeThreadOlusturma3.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section16ProjectsHafizaOyunu.*" />
+          <option name="PATTERN" value="DenemeThreadOlusturma3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjeyiOku (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeSerializationArrayCollection.ObjeyiOku" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeThreadSenkronizasyonu1denFazlaLock.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeSerializationArrayCollection.*" />
+          <option name="PATTERN" value="DenemeThreadSenkronizasyonu1denFazlaLock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjeyiOku (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeSerializationStatikAlan.ObjeyiOku" />
+    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeThreadSenkronizasyonu1denFazlaLock.Main2" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeSerializationStatikAlan.*" />
+          <option name="PATTERN" value="DenemeThreadSenkronizasyonu1denFazlaLock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjeyiYaz (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeSerializationArrayCollection.ObjeyiYaz" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeThreadOlusturma3.Main2" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeSerializationArrayCollection.*" />
+          <option name="PATTERN" value="DenemeThreadOlusturma3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjeyiYaz (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeSerializationStatikAlan.ObjeyiYaz" />
+    <configuration name="ThreadSafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeThreadSenkronizasyonu.ThreadSafe" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeSerializationStatikAlan.*" />
+          <option name="PATTERN" value="DenemeThreadSenkronizasyonu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HafizaOyunu" />
-        <item itemvalue="Application.ObjeyiOku (2)" />
-        <item itemvalue="Application.ObjeyiYaz (2)" />
-        <item itemvalue="Application.ObjeyiOku (1)" />
-        <item itemvalue="Application.ObjeyiYaz (1)" />
+        <item itemvalue="Application.Main2 (1)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.ThreadSafe" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
