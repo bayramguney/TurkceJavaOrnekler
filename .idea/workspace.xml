@@ -2,19 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bc5e152-f315-4daf-a2a3-0bbd77606129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DenemeThreadOlusturma1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeThreadOlusturma1/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeThreadOlusturma2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeThreadOlusturma2/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeThreadOlusturma3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeThreadOlusturma3/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeThreadSenkronizasyonu/ThreadSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeThreadSenkronizasyonu1denFazlaLock/ListWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeThreadSenkronizasyonu1denFazlaLock/ListWorker2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeThreadSenkronizasyonu1denFazlaLock/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DenemeThreadSenkronizasyonu1denFazlaLock/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeThreadHavuzu_ExecutorService/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeThreadHavuzu_ExecutorService/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeThreadHavuzu_ExecutorService/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeThreadWait_Notify/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DenemeThreadWait_Notify/WaitNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section17ProducerConsumerProblemiWait_Notify/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section17ProducerConsumerProblemiWait_Notify/ProducerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section17ProducerConsumerProblemiarrayBlockingQueue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Section17ProducerConsumerProblemiarrayBlockingQueue/ProducerConsumer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DenemeExceptions/MainThrows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DenemeExceptions/MainThrows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DenemeThreadOlusturma1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DenemeThreadOlusturma1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DenemeThreadOlusturma1/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DenemeThreadOlusturma1/Printer.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +71,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main2 (1)">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeThreadOlusturma3.Main" />
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section17ProducerConsumerProblemiarrayBlockingQueue.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeThreadOlusturma3.*" />
+          <option name="PATTERN" value="Section17ProducerConsumerProblemiarrayBlockingQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeThreadWait_Notify.Main" />
+      <module name="untitled" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DenemeThreadWait_Notify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,11 +99,11 @@
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeThreadSenkronizasyonu1denFazlaLock.Main" />
+      <option name="MAIN_CLASS_NAME" value="Section17ProducerConsumerProblemiWait_Notify.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeThreadSenkronizasyonu1denFazlaLock.*" />
+          <option name="PATTERN" value="Section17ProducerConsumerProblemiWait_Notify.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeThreadSenkronizasyonu1denFazlaLock.Main2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeThreadHavuzu_ExecutorService.Main" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeThreadSenkronizasyonu1denFazlaLock.*" />
+          <option name="PATTERN" value="DenemeThreadHavuzu_ExecutorService.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,25 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeThreadOlusturma3.Main2" />
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DenemeThreadHavuzu_ExecutorService.Main1" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DenemeThreadOlusturma3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadSafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DenemeThreadSenkronizasyonu.ThreadSafe" />
-      <module name="untitled" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DenemeThreadSenkronizasyonu.*" />
+          <option name="PATTERN" value="DenemeThreadHavuzu_ExecutorService.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2 (1)" />
         <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.ThreadSafe" />
-        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
